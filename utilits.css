@@ -1,0 +1,80 @@
+.h5-list-menu {
+    /* color: #9197B3; */
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.14px;
+}
+.fz-14px {
+    color: #000;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.14px;
+}
+.fz-14name{
+    color: #292D32;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.14px;
+}
+.fz-14pxCompany{
+    color: #B5B7C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.14px;
+}
+.fz-12px{
+    color: #757575;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.12px;
+}
+.fz-22px{
+    color: #000;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.22px;
+}
+.active-members{
+    color: #16C098;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.14px;
+}
+ /* MArGIN */
+
+ .ml-57{
+    margin-left: 57px;
+ }
+ .ml-61{
+    margin-left: 61px;
+ }
+ .ml-52{
+    margin-left: 52px;
+ }
+ .ml-168{
+    margin-left: 168px;
+ }
+ .ml-96{
+    margin-left: 96px;
+ }
