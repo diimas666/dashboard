@@ -37,6 +37,21 @@ body{
     height: 1198px;
 }
 
+.hamburger  {
+    display: none;
+    /* display: block; */
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+span.hamburger_span{
+    display: flex;
+    flex-direction: column;
+    width: 30px;
+    height: 2px;
+    margin-bottom: 10px;
+    background: #000;
+}
 .dashboard_wrapper{
     display: flex;
 }

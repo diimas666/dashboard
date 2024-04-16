@@ -1,0 +1,26 @@
+@media (max-width: 425px) {
+    .dashboard__wrapper-left{
+        display: fixed;
+        left: -100%;
+        top: 0;
+        transition: all 1s;
+        
+    }
+    .hamburger  {
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 30px;
+    }
+    .hello-text{
+        display: none;
+    }
+    
+    .tabs__content{
+        max-width: 425px;
+        padding: 8px;
+    }
+    .tabs__content tab{
+        max-width: 425px;
+    }
+}
